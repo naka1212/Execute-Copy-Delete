@@ -1,2 +1,2 @@
-# Programsm
+# Programs
 プログラム
