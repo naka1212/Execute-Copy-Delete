@@ -547,7 +547,7 @@ Public Class clsFtp
         bResult = True
         'Check if you are in the root directory.
         If (sDirName.Equals(".")) Then
-            Return False
+            Exit Function
         End If
         'Check if logged on to the FTP server
         If (Not (m_bLoggedIn)) Then

@@ -1,0 +1,9 @@
+diff a/clsFtpApp/clsFtp.vb b/clsFtpApp/clsFtp.vb	(rejected hunks)
+@@ -547,6 +547,7 @@
+         bResult = True
+         'Check if you are in the root directory.
+         If (sDirName.Equals(".")) Then
++            Return False
+         End If
+         'Check if logged on to the FTP server
+         If (Not (m_bLoggedIn)) Then
