@@ -1,0 +1,11 @@
+C:\Users\alfa\AppData\Local\Temporary Projects\clsFtpApp\bin\Debug\clsFtpApp.exe.config
+C:\Users\alfa\AppData\Local\Temporary Projects\clsFtpApp\bin\Debug\clsFtpApp.16.exe.config
+D:\AlfaFolder\MyDocuments\Visual Studio Projects\zeta2\Apps\Common\clsFtpApp\bin\Debug\clsFtpApp.dll.config
+D:\AlfaFolder\MyDocuments\Visual Studio Projects\zeta2\Apps\Common\clsFtpApp\bin\Debug\clsFtpApp.dll
+D:\AlfaFolder\MyDocuments\Visual Studio Projects\zeta2\Apps\Common\clsFtpApp\bin\Debug\clsFtpApp.pdb
+D:\AlfaFolder\MyDocuments\Visual Studio Projects\zeta2\Apps\Common\clsFtpApp\bin\Debug\clsFtpApp.xml
+D:\AlfaFolder\MyDocuments\Visual Studio Projects\zeta2\Apps\Common\clsFtpApp\obj\Debug\clsFtpApp.Resources.resources
+D:\AlfaFolder\MyDocuments\Visual Studio Projects\zeta2\Apps\Common\clsFtpApp\obj\Debug\clsFtpApp.vbproj.GenerateResource.Cache
+D:\AlfaFolder\MyDocuments\Visual Studio Projects\zeta2\Apps\Common\clsFtpApp\obj\Debug\clsFtpApp.dll
+D:\AlfaFolder\MyDocuments\Visual Studio Projects\zeta2\Apps\Common\clsFtpApp\obj\Debug\clsFtpApp.xml
+D:\AlfaFolder\MyDocuments\Visual Studio Projects\zeta2\Apps\Common\clsFtpApp\obj\Debug\clsFtpApp.pdb
